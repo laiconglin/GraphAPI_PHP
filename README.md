@@ -3,4 +3,4 @@ GraphAPI_PHP
 
 Sample for using Facebook API(GraphAPI)
 
-+Get friend list
+1. Get friend list
